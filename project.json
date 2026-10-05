@@ -67,6 +67,13 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "UiBank Application\\Test Cases\\TC03_GithubDemo.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "462fe759-2248-44a2-a113-7b8954e33371",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "UiBank Application\\Test Cases\\TC04_GithubDemo.xaml"
       }
     ],
     "saveToCloud": false
