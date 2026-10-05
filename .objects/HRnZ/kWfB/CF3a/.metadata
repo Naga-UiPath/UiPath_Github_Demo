@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Login Success Screen",
+  "Type": "Screen",
+  "Id": "CF3a0Z5JVk22ZLX38m8mDg",
+  "Reference": "FFdk5gbYn0u-99Bkz062Ww/CF3a0Z5JVk22ZLX38m8mDg",
+  "ParentRef": "FFdk5gbYn0u-99Bkz062Ww/kWfBCX1l9kyLy_lfSO18-w",
+  "Created": "2026-10-05T10:12:18.5455361Z",
+  "Updated": "2026-10-05T10:12:27.1603755Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

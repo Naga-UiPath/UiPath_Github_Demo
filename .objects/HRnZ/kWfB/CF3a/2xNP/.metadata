@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Login_Status",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "2xNPsz8K8UKLsqkm06wqqw",
+  "Reference": "FFdk5gbYn0u-99Bkz062Ww/2xNPsz8K8UKLsqkm06wqqw",
+  "ParentRef": "FFdk5gbYn0u-99Bkz062Ww/CF3a0Z5JVk22ZLX38m8mDg",
+  "Created": "2026-10-05T10:12:49.1729553Z",
+  "Updated": "2026-10-05T10:13:09.0112377Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

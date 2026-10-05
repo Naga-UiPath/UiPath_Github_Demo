@@ -1,0 +1,14 @@
+﻿{
+  "Name": "UiBank Application",
+  "Type": "App",
+  "Id": "HRnZIvn0rE-sL6f83PjcmA",
+  "Reference": "FFdk5gbYn0u-99Bkz062Ww/HRnZIvn0rE-sL6f83PjcmA",
+  "Created": "2026-10-04T15:08:54.1996752Z",
+  "Updated": "2026-10-05T09:33:46.7948328Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

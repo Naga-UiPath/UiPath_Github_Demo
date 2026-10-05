@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/nagatestcloud/defaulttenant/testmanager_",
+  "defaultProject": {
+    "id": "4f9a38b9-3e0f-0000-3adc-0b4a316bc501",
+    "name": "UiBank Application Testing",
+    "key": "UIB"
+  }
+}
